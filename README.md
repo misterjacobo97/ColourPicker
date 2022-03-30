@@ -1,1 +1,1 @@
-# Buy Me A Chai Me Widget
+# Colour picker widget
